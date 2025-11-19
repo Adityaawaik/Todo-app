@@ -1,6 +1,6 @@
 # React + Vite
 
-Check Here :  https://adityaawaik.github.io/Todo/
+Check Here :  https://adityaawaik.github.io/Todo-app/
 
 #Features : 
 1. Add new tasks or delete existing ones.
